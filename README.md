@@ -47,8 +47,8 @@ Think of it like teaching an AI agent to remember conversations (short-term memo
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd agent-memory
+git clone https://github.com/anespo/agents_memory_sample.git
+cd agent-memory_sample
 
 # Install dependencies
 pip install -r requirements.txt
